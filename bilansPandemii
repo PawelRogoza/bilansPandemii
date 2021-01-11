@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bilans-pandemii country="Polska"
+xmlns="https://www.w3schools.com"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="https://www.w3schools.com bilansPademii.xsd">
+	<statystyka>
+		<bilans-ogólnokrajowy date="1-30.11.2020">
+			<zachorowania>610909</zachorowania>
+			<zgony>11367</zgony>
+			<wyzdrowienia>430919</wyzdrowienia>
+			<wykonane-testy>1473611</wykonane-testy>
+			<testy-pozytywne mean="arytmetyczna">37,43%</testy-pozytywne>
+		</bilans-ogólnokrajowy>
+		<bilans-szczegółowy date="1.08.11.2020">
+				<województwa>
+					<województwo name="Dolnośląskie">
+						<zachorowania>14356</zachorowania>
+						<zgony>162</zgony>
+						<wyzdrowienia>4107</wyzdrowienia>
+					</województwo>
+					<województwo name="Kujawsko-pomorskie">
+						<zachorowania>11956</zachorowania>
+						<zgony>41</zgony>
+						<wyzdrowienia>3005</wyzdrowienia>
+					</województwo>
+					<województwo name="Lubelskie">
+						<zachorowania>11513</zachorowania>
+						<zgony>171</zgony>
+						<wyzdrowienia>4690</wyzdrowienia>
+					</województwo>
+					<województwo name="Lubuskie">
+						<zachorowania>3558</zachorowania>
+						<zgony>81</zgony>
+						<wyzdrowienia>2012</wyzdrowienia>
+					</województwo>
+					<województwo name="Łódzkie">
+						<zachorowania>12085</zachorowania>
+						<zgony>94</zgony>
+						<wyzdrowienia>3487</wyzdrowienia>
+					</województwo>
+					<województwo name="Małopolskie">
+						<zachorowania>15249</zachorowania>
+						<zgony>292</zgony>
+						<wyzdrowienia>9847</wyzdrowienia>
+					</województwo>
+					<województwo name="Mazowieckie">
+						<zachorowania>21288</zachorowania>
+						<zgony>261</zgony>
+						<wyzdrowienia>11490</wyzdrowienia>
+					</województwo>
+					<województwo name="Opolskie">
+						<zachorowania>4872</zachorowania>
+						<zgony>71</zgony>
+						<wyzdrowienia>1951</wyzdrowienia>
+					</województwo>
+					<województwo name="Podkarpackie">
+						<zachorowania>9705</zachorowania>
+						<zgony>152</zgony>
+						<wyzdrowienia>4776</wyzdrowienia>
+					</województwo>
+					<województwo name="Podlaskie">
+						<zachorowania>4225</zachorowania>
+						<zgony>58</zgony>
+						<wyzdrowienia>769</wyzdrowienia>
+					</województwo>
+					<województwo name="Pomorskie">
+						<zachorowania>8919</zachorowania>
+						<zgony>98</zgony>
+						<wyzdrowienia>2299</wyzdrowienia>
+					</województwo>
+					<województwo name="Śląskie">
+						<zachorowania>21808</zachorowania>
+						<zgony>228</zgony>
+						<wyzdrowienia>5191</wyzdrowienia>
+					</województwo>
+					<województwo name="Świętokrzyskie">
+						<zachorowania>4350</zachorowania>
+						<zgony>53</zgony>
+						<wyzdrowienia>740</wyzdrowienia>
+					</województwo>
+					<województwo name="Warmińsko-mazurskie">
+						<zachorowania>4611</zachorowania>
+						<zgony>61</zgony>
+						<wyzdrowienia>1618</wyzdrowienia>
+					</województwo>
+					<województwo name="Wielkopolskie">
+						<zachorowania>16567</zachorowania>
+						<zgony>136</zgony>
+						<wyzdrowienia>4060</wyzdrowienia>
+					</województwo>
+					<województwo name="Zachodniopomorskie">
+						<zachorowania>5011</zachorowania>
+						<zgony>72</zgony>
+						<wyzdrowienia>1960</wyzdrowienia>
+					</województwo>
+				</województwa>
+		</bilans-szczegółowy>
+	</statystyka>
+</bilans-pandemii>
